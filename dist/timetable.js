@@ -1,0 +1,1 @@
+!function(t){if("admlu65.ust.hk"==t.location.host){var e=t.getElementsByTagName("a");for(let t of e)t.textContent==((new Date).getMonth()>7?"Fall":"Spring")&&(t.removeAttribute("disabled"),t.classList.add("selected"),t.click())}}(document);

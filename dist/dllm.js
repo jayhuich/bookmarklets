@@ -1,0 +1,1 @@
+!function(){var e=document.querySelectorAll("h1,h2,h3,h4,h5,h6,p,a,li,span");for(element of e)element.textContent="dllm"}();
